@@ -1,5 +1,5 @@
 /*
- * name: LinkIt
+ * name: linkit_test
  * author: Tina Balboa
  * version: 0.3.0
  * license: MIT
