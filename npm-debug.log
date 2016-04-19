@@ -42,7 +42,7 @@
 21 silly publish   homepage: 'https://github.com/tehtuna/jquery.linkIt#readme',
 21 silly publish   readme: '#LinkIt jQuery Plugin#\r\n\r\n**LinkIt** is a simple jQuery plugin to attach links to elements\r\n\r\n##Version##\r\n0.3.0\r\n\r\n##Usage##\r\n\t\t$(\'span\').linkIt({\r\n\t\t\thref: \'http://test.com\',\r\n\t\t\ttext:\'Click Me\',\r\n\t\t\ttarget:\'_blank\'\r\n\t\t});\r\n\r\n##Vendors##\r\njQuery - [http://jquery.com](http://jquery.com)\r\n\r\n##License##\r\nMIT License',
 21 silly publish   readmeFilename: 'README.md',
-21 silly publish   gitHead: '3e3d66278bbe4b0da484e335661261f06227d71f',
+21 silly publish   gitHead: '02b67ae1b9d83794169aec25b637b54184e5eb3d',
 21 silly publish   _id: 'linkit@1.0.0',
 21 silly publish   _shasum: '446e66e500444702723869250543c82b8ee35516',
 21 silly publish   _from: '.' }
@@ -61,22 +61,22 @@
 29 silly publish uploading C:\Users\Tina\AppData\Roaming\npm-cache\linkit\1.0.0\package.tgz
 30 verbose request uri https://registry.npmjs.org/linkit
 31 verbose request sending authorization for write operation
-32 info attempt registry request try #1 at 14:41:06
+32 info attempt registry request try #1 at 14:47:10
 33 verbose request using bearer token for auth
-34 verbose request id c0a187d378607a1d
+34 verbose request id d0741f6ff8b9dfd3
 35 http request PUT https://registry.npmjs.org/linkit
 36 http 403 https://registry.npmjs.org/linkit
 37 verbose headers { 'content-type': 'application/json',
 37 verbose headers   'cache-control': 'max-age=300',
 37 verbose headers   'content-length': '100',
 37 verbose headers   'accept-ranges': 'bytes',
-37 verbose headers   date: 'Tue, 19 Apr 2016 19:41:06 GMT',
+37 verbose headers   date: 'Tue, 19 Apr 2016 19:47:11 GMT',
 37 verbose headers   via: '1.1 varnish',
 37 verbose headers   connection: 'keep-alive',
-37 verbose headers   'x-served-by': 'cache-ord1723-ORD',
+37 verbose headers   'x-served-by': 'cache-dfw1824-DFW',
 37 verbose headers   'x-cache': 'MISS',
 37 verbose headers   'x-cache-hits': '0',
-37 verbose headers   'x-timer': 'S1461094866.523466,VS0,VE412',
+37 verbose headers   'x-timer': 'S1461095230.694810,VS0,VE405',
 37 verbose headers   vary: 'Accept-Encoding' }
 38 verbose request invalidating C:\Users\Tina\AppData\Roaming\npm-cache\registry.npmjs.org\linkit on PUT
 39 error publish Failed PUT 403

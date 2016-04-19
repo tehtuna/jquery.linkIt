@@ -1,5 +1,5 @@
 {
-  "name": "linkit",
+  "name": "linkit_test",
   "version": "1.0.0",
   "description": "Simple plugin to convert any element into a link.",
   "main": "jquery.linkIt.js",
