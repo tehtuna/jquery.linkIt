@@ -5,7 +5,9 @@
     "keywords": [
         "link",
         "html",
-		"content"
+		"content",
+		"jquery-plugin",
+		"ecosystem:jquery"
     ],
     "version": "0.3.0",
     "author": {
@@ -27,7 +29,12 @@
     ],
     "homepage": "https://github.com/tehtuna/jquery.linkIt",
     "docs": "https://github.com/tehtuna/jquery.linkIt",
-    "dependencies": {
+	"docs": "https://github.com/tehtuna/jquery.linkIt",
+    "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/tehtuna/jquery.linkIt"
+  }
+	"dependencies": {
         "jquery": ">=1.9"
     }
 }
