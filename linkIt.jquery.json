@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Tina Balboa",
+        "url": "http://thisistina.com"
+    },
+    "maintainers": [
+        {
+            "name": "Tina Balboa",
+            "email": "info@thisistina.com",
+            "url": "http://thisistina.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/tehtuna/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/tehtuna/jquery.linkIt",
+    "docs": "https://github.com/tehtuna/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
